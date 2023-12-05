@@ -1,8 +1,5 @@
 ## Track  Your Expenses and Income
 
-* Publicly hosted at: https://codefundoiit.000webhostapp.com/
-* Demo video at: https://youtu.be/-lsoxJi7Xs4
-
 #### Download and make the following changes in `dbcontroller.php` and `function.php`
 
 ```ruby
